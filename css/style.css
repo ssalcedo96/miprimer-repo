@@ -4,3 +4,9 @@ h1{
 p{
     color:green;
 }
+header{
+    background-color: red;
+height: 200px;
+width: 100%;
+display: block;
+}
